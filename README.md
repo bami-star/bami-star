@@ -10,7 +10,7 @@ I’m a developer focused on building practical, user-friendly applications and 
 🚀 Building full-stack projects and learning modern software engineering practices
 🧠 Interested in frontend and backend development, APIs, databases & system design
 🔬 My background as a scientist and biomedical researcher gives me a unique perspective on healthcare technology
-⸻
+
 
 🛠️ Tech Stack
 💻 Languages
@@ -56,8 +56,6 @@ I’m a developer focused on building practical, user-friendly applications and 
 
 </p>
 
-⸻
-
 🤝 Connect With Me
 
 <p>
@@ -69,7 +67,5 @@ I’m a developer focused on building practical, user-friendly applications and 
 </a>
 
 </p>
-
-⸻
 
 ⭐ Thanks for visiting my profile!
