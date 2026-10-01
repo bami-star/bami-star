@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Beamlak Tibebu 👋
+## Software engineer | Medical Scientist | Researcher
 
-<!--
-**bami-star/bami-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering
+🧪 Medical Scientist
+🔬 Biomedical & health research
 
-Here are some ideas to get you started:
+🛠️ Technologies
+JavaScript
+TypeScript
+React
+Node.js
+Express.js
+PostgreSQL
+Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Project
+🎬 Cinema Scheduling System
+A web-based project I'm building backend, database, API, and frontend development.
+
+📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/beamlak-tibebu-b669273bb
