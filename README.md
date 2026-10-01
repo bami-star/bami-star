@@ -58,17 +58,6 @@ I’m a developer focused on building practical, user-friendly applications and 
 
 ⸻
 
-
-📊 GitHub Stats
-
-<p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=bami-star&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-⸻
-
 🤝 Connect With Me
 
 <p>
