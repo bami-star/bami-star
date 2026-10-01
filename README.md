@@ -1,16 +1,11 @@
 👋 Hi, I’m Beamlak Tibebu
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Health-Tech+Enthusiast;Biomedical+Researcher" alt="Typing SVG" />
+</p>
 
 💻 Developer | 🧪 Medical  Scientist  | 🔬 Biomedical Researcher
 
 I’m interested in combining technology with healthcare, biomedical research to build practical solutions that can make a real-world impact.
-
-👩‍💻About Me
-I’m a developer focused on building practical, user-friendly applications and continuously improving my development skills.
-🌱 Currently developing with JavaScript, TypeScript, React, Node.js & PostgreSQL
-🚀 Building full-stack projects and learning modern software engineering practices
-🧠 Interested in frontend and backend development, APIs, databases & system design
-🔬 My background as a scientist and biomedical researcher gives me a unique perspective on healthcare technology
-
 
 🛠️ Tech Stack
 💻 Languages
